@@ -21,8 +21,8 @@ This project analyzes Airbnb listings to understand the factors that affect pric
 
 ## Dashboard Preview
 
-![Page 1](screenshoot/Screenshot 2026-10-24 215305.png)
-![Page 2](screenshoot/Screenshot 2026-10-24 215241.png)
+![Page 1](<screenshoot/Screenshot 2026-10-24 215305.png>)
+![Page 2](<screenshoot/Screenshot 2026-10-24 215241.png>)
 
 
 ## Key Insights

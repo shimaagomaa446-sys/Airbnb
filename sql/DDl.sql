@@ -1,0 +1,10 @@
+CREATE DATABASE Airbnb;
+GO
+
+USE Airbnb;
+GO
+
+CREATE SCHEMA BRONZE;
+GO
+
+

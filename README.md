@@ -20,9 +20,10 @@ This project analyzes Airbnb listings to understand the factors that affect pric
 5. **Power BI:** Built an interactive dashboard on top of the Gold layer.
 
 ## Dashboard Preview
-![Page 1](screenshots/page1.png)
+
+![Page 1](screenshoot/Screenshot 2026-10-24 215305.png)
 ![Page 2](screenshots/page2.png)
-![Page 3](screenshots/page3.png)
+
 
 ## Key Insights
 1. **City matters most:** Amsterdam has the highest average price (573), while Athens has the lowest (152).
